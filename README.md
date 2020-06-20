@@ -4,8 +4,5 @@ JavaMagick is a Java interface to [ImageMagick](https://imagemagick.org/). It im
 ### Current Version
 The project was created using ImageMagick version 7.0.10-19 (16 bit) but it should in theory work with previous and future versions (as long as the MagickWand API methods that it uses don't change).
 
-### History
-I was looking for a Java interface to ImageMagick and the only one I could find was JMagick. The problem with JMagick is that it crashes my Web server when I use it and also the project seems outdated. So I wrote my own interface and decided to "give back to the public".
-
 ### Binary distribution
 I wrote the JNI dll in C using Visual Studio 10 on a Windows platform. I created a 32 bit and a 64 bit dll. I have also created binaries for Linux (Ubuntu) and a Mac (Catalina). You can find everything in the downloads section.
