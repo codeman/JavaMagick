@@ -1,4 +1,4 @@
-# JavaMagick project
+# JavaMagick
 JavaMagick is a Java interface to [ImageMagick](https://imagemagick.org/). It implements the most common image manipulation methods in a user friendly manner. It uses a JNI interface between Java and the [MagickWand API](https://imagemagick.org/script/magick-wand.php).
 
 ### Current Version
